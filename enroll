@@ -1,0 +1,49 @@
+xml
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>R.A.D. Life University - Awakening Your Inner Radia</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to R.A.D. Life University</h1>
+        <h2>Awakening Your Inner Radia</h2>
+        <p>R.A.D. Life University is dedicated to helping you discover and nurture your inner radiance. Our programs are designed to empower you on your journey of self-discovery and personal growth.</p>
+        <h3>Our Mission</h3>
+        <p>To inspire and guide individuals in awakening their inner potential, fostering a community of radiant, authentic, and dynamic individuals.</p>
+        <h3>What We Offer</h3>
+        <ul>
+            <li>Transformative workshops and seminars</li>
+            <li>One-on-one coaching sessions</li>
+            <li>Online courses for personal development</li>
+            <li>Community events and networking opportunities</li>
+        </ul>
+        <p>Join us on this exciting journey of self-discovery and personal transformation. Awaken your inner Radia today!</p>
+        <footer>
+            <p>&copy; 2024 R.A.D. Life University. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>
